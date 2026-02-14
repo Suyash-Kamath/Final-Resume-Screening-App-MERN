@@ -11,4 +11,4 @@ services:
         zlib1g-dev \
         poppler-utils
       npm install
-    startCommand: node main.js
+    startCommand: node src/server.js
